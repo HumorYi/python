@@ -1,0 +1,11 @@
+{
+  "id": 1234,
+  "name": "bamboo",
+  "password": "abc",
+  "credit": 15000,
+  "balance": 15000,
+  "enroll_date": "2019-10-06",
+  "expire_date": "2021-10-01",
+  "pay_day": 22,
+  "status": 0
+}

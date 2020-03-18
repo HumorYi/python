@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "account": "v5UPCQ",
+    "pwd": "JrwUP15H",
+    "password": "c9ad3686a174428a9f248d6984a339e7",
+    "work": "work1",
+    "total_space": 34359738368,
+    "available_space": 34359738368,
+    "used_space": 0,
+    "size": "4G"
+  },
+  {
+    "id": 2,
+    "account": "xXlMgm",
+    "pwd": "Qo2U3hNB",
+    "password": "1a30732bfb35211d407f64471a0fa488",
+    "work": "work2",
+    "total_space": 68719476736,
+    "available_space": 68719476736,
+    "used_space": 0,
+    "size": "8G"
+  },
+  {
+    "id": 3,
+    "account": "k3uxXt",
+    "pwd": "QiRKcrVt",
+    "password": "d6e213cd551c340e4692786b29f7aa01",
+    "work": "work3",
+    "total_space": 51539607552,
+    "available_space": 51539607552,
+    "used_space": 0,
+    "size": "6G"
+  },
+  {
+    "id": 4,
+    "account": "OPgmG4",
+    "pwd": "3aWvIkyT",
+    "password": "61156f7662d94a961d59a43f368af45a",
+    "work": "work4",
+    "total_space": 51539607552,
+    "available_space": 51539607552,
+    "used_space": 0,
+    "size": "6G"
+  },
+  {
+    "id": 5,
+    "account": "0RyuCj",
+    "pwd": "OfKvMpr3",
+    "password": "2f2bc4adfe3f479954db6ffe7362bdea",
+    "work": "work5",
+    "total_space": 68719476736,
+    "available_space": 68719476736,
+    "used_space": 0,
+    "size": "8G"
+  },
+  {
+    "id": 6,
+    "account": "4uWSEk",
+    "pwd": "dT3mqz5v",
+    "password": "aacaf985b5d0d5f97447b9ddbc18ec63",
+    "work": "work6",
+    "total_space": 85899345920,
+    "available_space": 85899345920,
+    "used_space": 0,
+    "size": "10G"
+  },
+  {
+    "id": 7,
+    "account": "eNSY8F",
+    "pwd": "6nZbqXj4",
+    "password": "326813409e6224fea51387af77d351ea",
+    "work": "work7",
+    "total_space": 60129542144,
+    "available_space": 60129542144,
+    "used_space": 0,
+    "size": "7G"
+  },
+  {
+    "id": 8,
+    "account": "Ayp7Zh",
+    "pwd": "tvQSgxTr",
+    "password": "f7a071d0b0e90752d499037732328380",
+    "work": "work8",
+    "total_space": 51539607552,
+    "available_space": 51539607552,
+    "used_space": 0,
+    "size": "6G"
+  },
+  {
+    "id": 9,
+    "account": "7gK0pj",
+    "pwd": "25p6UYc3",
+    "password": "3d54906194c403b31a3e2df5635f3add",
+    "work": "work9",
+    "total_space": 60129542144,
+    "available_space": 60129542144,
+    "used_space": 0,
+    "size": "7G"
+  },
+  {
+    "id": 10,
+    "account": "dszRHQ",
+    "pwd": "9JXKHqi1",
+    "password": "a7b5c17b1ab17067cccec3e0c664dadd",
+    "work": "work10",
+    "total_space": 85899345920,
+    "available_space": 85899345920,
+    "used_space": 0,
+    "size": "10G"
+  }
+]
